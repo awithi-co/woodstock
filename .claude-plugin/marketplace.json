@@ -1,0 +1,23 @@
+{
+  "name": "woodstock",
+  "owner": { "name": "awithi-co" },
+  "description": "AWITHI family plugins for Claude Code and Codex.",
+  "plugins": [
+    {
+      "name": "acdc",
+      "description": "Agent Context Delivery Channel. Cross-agent session handoff between Claude Code and Codex.",
+      "source": { "source": "git-subdir", "url": "https://github.com/awithi-co/acdc.git", "path": "plugins/claude" },
+      "homepage": "https://github.com/awithi-co/acdc"
+    },
+    {
+      "name": "rhcp",
+      "description": "Readable Hangul Composition Partner. Thinking interview and Korean document guide. (private)",
+      "source": { "source": "git-subdir", "url": "https://github.com/awithi-co/rhcp.git", "path": "plugins/rhcp" }
+    },
+    {
+      "name": "kiss",
+      "description": "Keep It Scalable & Simple. Architecture decision partner for existing systems. (private)",
+      "source": { "source": "git-subdir", "url": "https://github.com/awithi-co/kiss.git", "path": "plugins/kiss" }
+    }
+  ]
+}
