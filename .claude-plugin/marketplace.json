@@ -5,8 +5,8 @@
   "plugins": [
     {
       "name": "acdc",
-      "description": "Agent Context Delivery Channel. Cross-agent session handoff between Claude Code and Codex.",
-      "source": { "source": "git-subdir", "url": "https://github.com/awithi-co/acdc.git", "path": "plugins/claude" },
+      "description": "Discover and collaborate with open Claude Code and Codex CLI sessions; recall and resume prior conversations.",
+      "source": { "source": "git-subdir", "url": "https://github.com/awithi-co/acdc.git", "path": "plugins/claude", "ref": "v0.5.0" },
       "homepage": "https://github.com/awithi-co/acdc"
     },
     {
