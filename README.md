@@ -30,7 +30,7 @@ For private plugins, set up git credentials on that machine first: `gh auth logi
 
 ## Update
 
-ACDC is pinned to `v0.5.0` in both marketplace catalogs. It requires Linux, Python 3.11+ as `python3`, and `uv` for CLI collaboration. See [supported modes](https://github.com/awithi-co/acdc/blob/v0.5.0/RELAY.md).
+ACDC is pinned to `v0.5.1` in both marketplace catalogs. It requires Linux, Python 3.11+ as `python3`, and `uv` for CLI collaboration. See [supported modes](https://github.com/awithi-co/acdc/blob/v0.5.1/RELAY.md).
 
 Each plugin updates when its source version changes.
 
