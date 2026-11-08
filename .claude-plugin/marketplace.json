@@ -18,6 +18,11 @@
       "name": "kiss",
       "description": "Keep It Scalable & Simple. Architecture decision partner for existing systems. (private)",
       "source": { "source": "git-subdir", "url": "https://github.com/awithi-co/kiss.git", "path": "plugins/kiss" }
+    },
+    {
+      "name": "rem",
+      "description": "Rules, Experience, Memory. Run Claude Code and Codex sessions as a band: org rules, status band, fleet check. (private)",
+      "source": { "source": "git-subdir", "url": "https://github.com/awithi-co/rem.git", "path": "plugins/claude" }
     }
   ]
 }

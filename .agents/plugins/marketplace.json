@@ -19,6 +19,12 @@
       "source": { "source": "git-subdir", "url": "https://github.com/awithi-co/kiss.git", "path": "plugins/kiss" },
       "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
       "category": "Productivity"
+    },
+    {
+      "name": "rem",
+      "source": { "source": "git-subdir", "url": "https://github.com/awithi-co/rem.git", "path": "plugins/codex" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
     }
   ]
 }

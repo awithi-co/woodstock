@@ -9,6 +9,7 @@ A plugin marketplace for Claude Code and Codex. It only lists where each plugin 
 | [ACDC](https://github.com/awithi-co/acdc) | Connect open Claude Code and Codex CLI sessions; recall and resume prior conversations. | Public |
 | RHCP | Readable Hangul Composition Partner. Thinking interview and Korean document guide. | Private |
 | KISS | Keep It Scalable & Simple. Architecture decision partner for existing systems. | Private |
+| REM | Rules, Experience, Memory. Run Claude Code and Codex sessions as a band: org rules, status band, fleet check. | Private |
 
 Private plugins install only with read access to their repository. Without it, that install fails with `not found` and the others still work.
 
